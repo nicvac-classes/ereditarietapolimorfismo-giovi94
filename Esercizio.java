@@ -1,4 +1,4 @@
-LEGGERE LE ISTRUZIONI NEL FILE README.md
+
 
 import java.util.Scanner;
 import java.util.Random;
