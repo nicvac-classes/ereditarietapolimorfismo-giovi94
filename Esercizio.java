@@ -4,7 +4,7 @@ LEGGERE LE ISTRUZIONI NEL FILE README.md
 import java.util.Scanner;
 import java.util.Random;
 
-// Classe principale, con metodo main
+
 class Esercizio {
 
 public static void main(String args[]){
